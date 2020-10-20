@@ -18,9 +18,9 @@ export const SelectableTile = styled(Tile)`
 
 
 export const DeletableTile = styled(SelectableTile)`
-  &:hover{
+  &:hover {
     cursor: pointer;
-    box-shadow: ${redBoxShadow};
+    ${redBoxShadow};
   }
 `;
 
