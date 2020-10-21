@@ -13,8 +13,8 @@ if(lightTheme){
 
 
 export const lightBlueBackground = `${color}`;
-export const backgroundColor2 = `background-color: ${color2}`;
-export const greenBackgroundColor = `background-color: ${color3}`;
+export const backgroundColor2 = `${color2}`;
+export const greenBackgroundColor = `${color3}`;
 
 
 export const fontColorGreen = `color: #03A9F4`;
